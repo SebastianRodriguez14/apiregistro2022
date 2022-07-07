@@ -14,7 +14,7 @@
 	<name>ApiRegistrio2022_ EVC</name>
 	<description>Api Rest de Registro Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
+		
 	</properties>
 	<dependencies>
 		<dependency>
